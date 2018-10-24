@@ -2,11 +2,13 @@
 
 Hello Guys 
 
-This Application Make Password list using 
+# This Application Make Password list using 
 
-information from TARGET 
+# information from TARGET 
 
-Example:
+
+
+# Example:
 
 First Name -> jan
 
